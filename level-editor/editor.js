@@ -1,6 +1,6 @@
-import { ListStore } from 'https://esm.sh/campfire.js';
+import { ListStore } from 'https://esm.sh/campfire.js@2.4.1';
 import { CodeJar } from 'https://esm.sh/codejar'
-import { input, message } from '../app/game/src/alert.js';
+import { message } from '../app/game/src/alert.js';
 
 const scene = {};
 const mouse = {
